@@ -1,5 +1,5 @@
 # Ecuacion2-Grado_Android
-Aplicación básica Android para resolver una ecuación des 2º grado
+Aplicación básica Android para resolver una ecuación des 2º grado.
 
 Esta app resuelve una ecuación se segundo grado cuando ésta tiene raíces reales. En caso de tener raíces imaginarias lo indica en 
 un mensaje (esto es mejorable, y puede programarse que imprima las raíces imaginarias).
