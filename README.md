@@ -12,4 +12,4 @@ complejos lo ideal es aplicar orientación a objetos y descomponer la misma en v
 
 Un libro que me ha servido de orientación, de los profesores Deitel, el cual tiene varios proyectos completos se puede 
 descargar de aquí:
-http://people.cs.deu.edu.tr/semih/Android_Books/Prentice%20Hall%20Android%20for%20Programmers,%20An%20App-Driven%20Approach%20(2012).pdf﻿
+http://people.cs.deu.edu.tr/semih/Android_Books/Prentice%20Hall%20Android%20for%20Programmers,%20An%20App-Driven%20Approach%20(2012).pdf
