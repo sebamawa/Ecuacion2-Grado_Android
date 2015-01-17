@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EcuacionDeSegundoGrado</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tvFormageneral">Forma general:   ax² + bx +c = 0</string>
+    <string name="tvIngresarCoef">Ingrese los coeficientes:</string>
+    <string name="btnRaices">Raíces</string>
+    <string name="btnBorrar">Borrar</string>
+    <string name="btnRaicesOK">OK</string>
+    <string name="tvEcuacion">Ecuación</string>
+    <string name="tvRaices">Raíces</string>
+
+</resources>
